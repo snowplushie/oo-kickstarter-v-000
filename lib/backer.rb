@@ -5,6 +5,8 @@ class Backer
     @backed_projects = backed_projects
     @name = name
   end
+  
+  def back_projects()
 end
     
     
